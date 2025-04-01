@@ -4,3 +4,5 @@ metadata:
   name: hello-world
   labels:
     environment: demo
+  annotations:
+    note: "Updated configuration"
