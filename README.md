@@ -1,2 +1,2 @@
 # hello-world
-PoC demo for Argo CD
+PoC demo for Argo CD % Argo Rollout
